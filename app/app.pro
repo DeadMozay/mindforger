@@ -342,11 +342,14 @@ win32 {
 #./resources/qt/translations/mindforger_de.ts
 #./resources/qt/translations/mindforger_fr.ts
 #./resources/qt/translations/mindforger_es.ts
+#./resources/qt/translations/mindforger_ru.ts
 TRANSLATIONS = \
     ./resources/qt/translations/mindforger_nerd_en.ts \
     ./resources/qt/translations/mindforger_nerd_cs.ts \
+    ./resources/qt/translations/mindforger_nerd_ru.ts \
     ./resources/qt/translations/mindforger_en.ts \
-    ./resources/qt/translations/mindforger_cs.ts
+    ./resources/qt/translations/mindforger_cs.ts \
+    ./resources/qt/translations/mindforger_ru.ts
 
 RESOURCES += \
     ./mf-resources.qrc
