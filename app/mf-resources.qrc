@@ -24,7 +24,7 @@
     <qresource prefix="/translations">
         <file alias="mindforger_cs_CZ.qm">resources/qt/translations/mindforger_cs.qm</file>
         <file alias="mindforger_en_US.qm">resources/qt/translations/mindforger_en.qm</file>
-	<file alias="mindforger_en_US.qm">resources/qt/translations/mindforger_ru.qm</file>
+	<file alias="mindforger_ru_RU.qm">resources/qt/translations/mindforger_ru.qm</file>
         <file alias="mindforger_nerd_cs_CZ.qm">resources/qt/translations/mindforger_nerd_cs.qm</file>
         <file alias="mindforger_nerd_en_US.qm">resources/qt/translations/mindforger_nerd_en.qm</file>
 	<file alias="mindforger_nerd_ru_RU.qm">resources/qt/translations/mindforger_nerd_ru.qm</file>
